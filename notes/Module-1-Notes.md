@@ -85,7 +85,7 @@ Dashboards = pinned visuals from reports (high‑level, single page).
 
 ---
 
-## 📌 Summary
+## Summary
 - Power BI = Desktop + Service + Mobile  
 - Building blocks = Semantic models + Visualizations  
 - Dashboards + Apps = Distribution and collaboration  
