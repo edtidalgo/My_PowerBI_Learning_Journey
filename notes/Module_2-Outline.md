@@ -1,4 +1,6 @@
-# 📊 Get Data in Power BI
+# 📊 Get Data in Power BI 
+
+[Learning Module](https://learn.microsoft.com/en-us/training/modules/get-data/)
 
 **Duration:** ~ Module length varies  
 **Type:** Module  
