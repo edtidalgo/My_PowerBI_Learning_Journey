@@ -15,10 +15,10 @@ This repository documents my progress through Microsoft Learn modules as I trans
 ## 📚 Modules Index
 
 ### 🔰 Beginner Foundations
-1. [Module 1 – Get Started with Power BI](module-1-get-started.md)  
+1. [Module 1 – Get Started with Power BI](Module_1-Notes.md) 
    *Overview of Power BI Desktop, Service, and Mobile; semantic models and visualizations.*
 
-2. [Module 2 – Get Data in Power BI](module-2-get-data.md)  
+2. [Module 2 – Get Data in Power BI](Module_2-Notes.md)  
    *Connecting to files, relational databases, NoSQL, and cloud services; storage modes and performance.*
 
 ---
