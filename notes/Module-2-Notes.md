@@ -1,3 +1,5 @@
+[Back to Notes ReadMe](Readme.md)
+
 # Module 2: Get Data in Power BI
 
 *Learning Path: Prepare and visualize data with Microsoft Power BI*  
