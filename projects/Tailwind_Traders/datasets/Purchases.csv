@@ -1,0 +1,55 @@
+PurchaseID, Supplier          , Last Visited,ReturnStatus, Warranty (Months), Purchase Date, Return Policy (Days), Feedback, OrderID 
+1,Smith Tools Inc., 10/10/2023   ,Not Returned,6, 09/20/2023   ,30, Wont Recommend       ,1024
+2,BrightLife Co., 10/12/2023   ,Returned,12, 09/22/2023   ,45, Neutral              ,1025
+3,TimberCraft Suppliers, 10/11/2023   ,Not Returned,24, 09/23/2023   ,60, Will Recommend       ,1026
+4,BuildMaster Tools, 10/14/2023   ,Returned,36, 09/25/2023   ,30, Neutral              ,1027
+5,GreenThumb Essentials, 10/15/2023   ,Not Returned,18, 09/26/2023   ,15, Will Recommend       ,1028
+6,BuildRight Supplies, 10/16/2023   ,Not Returned,12, 09/27/2023   ,20, Wont Recommend       ,1029
+7,ColorDreams Paints, 10/14/2023   ,Not Returned,6, 09/28/2023   ,25, Neutral              ,1030
+8,AquaFlow Suppliers, 10/15/2023   ,Returned,24, 09/29/2023   ,30, Wont Recommend       ,1031
+9,ToolTech Incorporated, 10/16/2023   ,Not Returned,6, 09/30/2023   ,20, Will Recommend       ,1032
+10,DecorDelight Co., 10/17/2023   ,Not Returned,12, 10/01/2023   ,40, Neutral              ,1033
+11,ElegantEntry Inc., 10/11/2023   ,Not Returned,12, 09/23/2023   ,15, Wont Recommend       ,1034
+12,LightUp Creations, 10/19/2023   ,Returned,24, 10/03/2023   ,25, Will Recommend       ,1035
+13,EcoGarden Supplies, 10/18/2023   ,Not Returned,36, 10/04/2023   ,40, Neutral              ,1036
+14,ArtisticPottery Inc., 10/17/2023   ,Not Returned,18, 10/05/2023   ,20, Wont Recommend       ,1037
+15,ComfortZone Furniture, 10/20/2023   ,Not Returned,48, 10/06/2023   ,60, Will Recommend       ,1038
+16,GardenTech Co., 10/18/2023   ,Returned,12, 10/02/2023   ,10, Neutral             ,1039
+17,AquaDesigns Ltd., 10/22/2023   ,Not Returned,24, 10/07/2023   ,30, Wont Recommend       ,1040
+18,Timeless Decor, 10/23/2023   ,Not Returned,36, 10/08/2023   ,15, Neutral              ,1041
+19,StoneCrafters Inc., 10/16/2023   ,Not Returned,12, 09/27/2023   ,25, Will Recommend       ,1042
+20,TimberCraft Suppliers, 10/24/2023   ,Returned,12, 10/09/2023   ,30, Neutral              ,1043
+21,StoneMarvel Inc., 10/18/2023   ,Not Returned,12, 10/04/2023   ,10, Will Recommend       ,1044
+22,SunLight Creations, 10/25/2023   ,Returned,6, 10/10/2023   ,15, Wont Recommend       ,1045
+23,AquaLux Suppliers, 10/19/2023   ,Not Returned,24, 10/05/2023   ,40, Neutral              ,1046
+24,BuildElite Tools, 10/26/2023   ,Not Returned,12, 10/11/2023   ,20, Wont Recommend       ,1047
+25,PlantBoost Co., 10/27/2023   ,Not Returned,24, 10/12/2023   ,10, Will Recommend       ,1048
+26,Reflective Designs Inc., 10/28/2023   ,Returned,12, 10/13/2023   ,25, Neutral              ,1049
+27,TechComfort Solutions, 10/20/2023   ,Not Returned,36, 10/06/2023   ,30, Wont Recommend       ,1050
+28,NatureFurnish Co., 10/29/2023   ,Not Returned,18, 10/14/2023   ,15, Will Recommend       ,1052
+29,GrillMasters Ltd., 10/30/2023   ,Not Returned,12, 10/15/2023   ,30, Neutral              ,1053
+30,ToolPro Innovations, 10/31/2023   ,Returned,12, 10/16/2023   ,20, Wont Recommend       ,1054
+31,CozyNest Textiles, 10/05/2023   ,Not Returned,6, 08/15/2023   ,10, Will Recommend       ,1055
+32,GreenCraft Supplies, 10/07/2023   ,Not Returned,12, 08/17/2023   ,15, Neutral              ,1056
+33,HeightRight Equipment, 10/06/2023   ,Not Returned,24, 08/18/2023   ,25, Wont Recommend       ,1057
+34,EarthyPottery Inc., 10/09/2023   ,Returned,24, 08/20/2023   ,20, Will Recommend       ,1058
+35,Luminaire Designs, 10/10/2023   ,Not Returned,36, 08/21/2023   ,30, Neutral              ,1059
+36,FlameFront Co., 10/11/2023   ,Not Returned,18, 08/22/2023   ,15, Wont Recommend       ,1060
+37,TimberLine Furniture, 10/09/2023   ,Not Returned,24, 08/23/2023   ,15, Will Recommend       ,1061
+38,SafeGuard Tech, 10/10/2023   ,Returned,18, 08/24/2023   ,10, Neutral              ,1062
+39,WindowWonders Ltd., 10/11/2023   ,Not Returned,12, 08/25/2023   ,14, Wont Recommend       ,1063
+40,PlushThreads Textiles, 10/12/2023   ,Not Returned,18, 08/26/2023   ,20, Will Recommend       ,1064
+41,Botanica Ltd., 10/06/2023   ,Not Returned,24, 08/18/2023   ,30, Neutral              ,1065
+42,Illumina Designs, 10/14/2023   ,Returned,18, 08/28/2023   ,25, Wont Recommend       ,1066
+43,CulinaryCraft Co., 10/13/2023   ,Not Returned,36, 08/29/2023   ,30, Neutral              ,1067
+44,WeaveWorks Ltd., 10/12/2023   ,Not Returned,24, 08/30/2023   ,15, Will Recommend       ,1068
+45,GardenGizmos Inc., 10/15/2023   ,Not Returned,24, 08/31/2023   ,20, Neutral              ,1069
+46,StoneScape Creations, 10/13/2023   ,Returned,24, 08/27/2023   ,14, Will Recommend       ,1070
+47,CleanTech Innovations, 10/17/2023   ,Not Returned,12, 09/01/2023   ,10, Wont Recommend       ,1071
+48,FurnishFinely Co., 10/18/2023   ,Not Returned,12, 09/02/2023   ,15, Neutral              ,1072
+49,AquaHeat Solutions, 10/11/2023   ,Not Returned,18, 08/22/2023   ,10, Will Recommend       ,1073
+50,DiningDeluxe Ltd., 10/19/2023   ,Returned,12, 09/03/2023   ,14, Wont Recommend       ,1074
+51,FabricFocus Textiles, 10/13/2023   ,Not Returned,12, 08/29/2023   ,30, Will Recommend       ,1075
+52,EarthyGrow Co., 10/20/2023   ,Not Returned,24, 09/04/2023   ,25, Neutral              ,1076
+53,ComfortCraft Furniture, 10/14/2023   ,Not Returned,18, 09/05/2023   ,20, Wont Recommend       ,1077
+54,TerraTile Suppliers, 10/21/2023   ,Returned,12, 09/06/2023   ,15, Neutral              ,1078
