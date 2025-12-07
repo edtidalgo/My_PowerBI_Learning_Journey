@@ -2,6 +2,7 @@
 
 ## Overview
 This document outlines the structured ETL workflow used to prepare and integrate raw CSV datasets into Power BI for the Tailwind Traders Capstone Project.  
+
 To simulate enterprise-grade analytics, all datasets were first uploaded to **SQL Server**, enabling robust staging, normalization, and relational modeling. This approach highlights my skills in **ETL design**, **SQL schema development**, and **Power BI integration**.
 
 ---
